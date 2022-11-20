@@ -1,4 +1,4 @@
-# Tips27 尽可能少做转型动作（minimize casting）
+# Tips 27: 尽可能少做转型动作（minimize casting）
 
 
 > 本文将从1.访问权限 , 2.static_cast, 3.dynamic_cast问题及其避免方式进行介绍

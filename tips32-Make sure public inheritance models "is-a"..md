@@ -1,4 +1,4 @@
-# Tips32 Make sure public inheritance models "is-a".
+# Tips 32: Make sure public inheritance models "is-a".
 
 >  本文将介绍`public`继承背后的`is-a`的关系
 
