@@ -1,0 +1,17 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "run_exe",
+            "type": "cppdbg",
+            "request": "launch",
+            // "program": "${workspaceFolder}/tips35/a.out",
+            // "args": [],
+            // "cwd": "${workspaceFolder}",
+            "preLaunchTask": "cd_dir", // The name of the task defined above
+        }
+    ]
+}

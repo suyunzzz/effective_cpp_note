@@ -5,3 +5,7 @@
 #include <memory>
 #include <mutex>
 #include <functional>
+#include <map>
+#include <list>
+#include <unordered_map>
+#include <algorithm>
